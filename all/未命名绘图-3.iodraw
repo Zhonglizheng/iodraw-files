@@ -1,0 +1,105 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="VWrh9IQUyEHcSYT8gI0P">
+    <mxGraphModel dx="1209" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" id="vPTQ6vueI9CwJFNlNsKp-1">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-2" target="vPTQ6vueI9CwJFNlNsKp-5">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;收到客户端产品不良品通知&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-1540" width="120" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-5" target="vPTQ6vueI9CwJFNlNsKp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-5" target="vPTQ6vueI9CwJFNlNsKp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;判断客户规模与重要性&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="69.75" y="-1411" width="150.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-9" target="vPTQ6vueI9CwJFNlNsKp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-9" target="vPTQ6vueI9CwJFNlNsKp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-9" target="vPTQ6vueI9CwJFNlNsKp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;小客户&lt;br&gt;1：研发测试与试产？&lt;br&gt;2：产线量产报不良？&lt;br&gt;3：客户市场出货不良？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="-1432.25" width="179" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="647.5" y="-1169.62" as="targetPoint" />
+            <mxPoint x="145.02173913043475" y="-1168.3844927536231" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="145.5" y="-1088.37" />
+              <mxPoint x="647.5" y="-1088.37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.99549549549533" y="-1160" as="sourcePoint" />
+            <mxPoint x="333.5" y="-1221" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="334" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;大客户，不论是研发试产&lt;br&gt;还是量产还是市场不良，&lt;br&gt;技术组跟项目&lt;br&gt;组都需要及&lt;br&gt;时介入反馈跟进&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1279.75" width="230" height="138.75" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;量产阶段：评估不良规模，个例性不良项目专员介入评估同客户沟通补发换货等其他手段低调处理&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="-1521" width="140" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="-1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;研发试产阶段：评估不良规模，技术组介入了解原因，及时向上反馈同原厂交流具体情况，帮助客户避免后续量产出现问题&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="-1393.5" width="142.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-17" target="vPTQ6vueI9CwJFNlNsKp-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="-1240" />
+              <mxPoint x="410" y="-1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;市场不良件：重视处理，技术组，项目专员介入&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="278" y="-1256" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPTQ6vueI9CwJFNlNsKp-19" target="vPTQ6vueI9CwJFNlNsKp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-19" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;技术组与项目专员介入需要了解信息如下：&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1：客户用在什么项目上，可跟项目专员了解也可同客户了解&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;2：客户不良品发生在哪一道工序（不良发生在试产或者产线量产阶段）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3：客户不良品测试工况条件，包含温度，电流，测交流还是直流，见不良品反馈清单&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（不良发生在试产或者产线量产阶段）&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4：若为整机报不良需要了解客户异常对整机的影响是什么。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5：了解客户机器出货使用时间多久了，因为电流传感器导致的不良率多大有多少台，总出货多少台？（客户市场出货不良）&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 11px;&quot;&gt;6：拿到不良品记下不良品SN码，跟后端查询出货时间，出货数量。&lt;br&gt;7：跟客户尽量多了解目前此事件在客户公司影响情况（例如客户哪些部门已介入）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1310" width="399.5" height="140.38" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-20" value="收到货后进行初步检测，与原厂QC景工交流，然后再走正式邮件流程基础不良品给原厂并保持及时跟进状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-1284.72" width="120" height="89.81" as="geometry" />
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vPTQ6vueI9CwJFNlNsKp-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.65" y="-1090" as="sourcePoint" />
+            <mxPoint x="388.89" y="-1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="-1060" />
+              <mxPoint x="389" y="-1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPTQ6vueI9CwJFNlNsKp-22" value="如客户有需求及时赶往客户现场，安抚客户，并妥善处理，现场随机应变，不引起客户不满，主要能解决问题就解决问题，不能解决问题，一定要注意客户情绪，把控好沟通细节，了解客户真实需求。" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="278" y="-1030" width="222.5" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
